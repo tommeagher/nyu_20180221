@@ -1,8 +1,6 @@
 THE BASICS
 ==========
 
-**9:30 - 10:45 a.m.**
-
 What is a [number](https://docs.python.org/3/tutorial/introduction.html#numbers)? What is a [string](https://docs.python.org/3/tutorial/introduction.html#strings)? What is a [list](https://docs.python.org/3/tutorial/introduction.html#lists)?
 
 Nevermind that, what's a [Python](https://docs.python.org/3.6/)?
@@ -12,8 +10,6 @@ Before we get started with learning programming concepts, let's take a step back
 Programming is not mystical, magical or special. Programming is more of a craft than an art. It’s more like learning how to build cabinetry than it is learning how to watercolor. There’s nothing glamorous in it, and you should be suspicious of anyone who tries to tell you otherwise.
 
 You already know the components of programming. You have been exercising the reasoning programming relies on for your entire life, probably without even realizing it. Programming is just a way to take the logic you already use on a daily basis and express it in a way a computer can understand and act upon.
-
-Card games and games like tic-tac-toe are classic programming tests because they require you to encapsulate the way you reason about those games in a way a computer can understand. So we'll use a card game, solitaire, to talk about some basic programming concepts over in the `basics_notebook`. Head over there, and then come back here for some reference.
 
 ## About Python
 
@@ -38,7 +34,7 @@ Anyways, let's get started by looking at some key components of any programming 
 
 **The files**
 
-* ```basics.py``` and ```complete/basics_complete.py```
+* ```basics_reference_notebook.ipynb``` and ```complete/basics_reference_notebook_complete.ipynb```
 
     * Indentation
 
@@ -55,7 +51,7 @@ Anyways, let's get started by looking at some key components of any programming 
 
     * Comments
 
-        * Throughout the day you will see - and hear us refer to - something called comments. We're not referring to that wasteland of negativity that you find at the bottom of articles on news websites. But just the same, ideally these comments are meant to be constructive.
+        * You will see - and hear us refer to - something called comments. We're not referring to that wasteland of negativity that you find at the bottom of articles on news websites. But just the same, ideally these comments are meant to be constructive.
 
         * Comments are annotations; a method for programmers to offer notes, advice or justification for why the did something in a script.
 
